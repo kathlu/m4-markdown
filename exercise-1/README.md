@@ -8,4 +8,4 @@ See `complete` branch for an example.
 
 > "So we beat on, boats against the current, borne back ceaselessly into the past."
 
-Additional information 'http://www.sparknotes.com/lit/gatsby/quotes.html'
+Additional information on [SparkNotes](http://www.sparknotes.com/lit/gatsby/quotes.html) .

@@ -6,4 +6,6 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 
 See `complete` branch for an example.
 
-> "Life is a book and there are a thousand pages I have not read yet"
+> "So we beat on, boats against the current, borne back ceaselessly into the past."
+
+Additional information 'http://www.sparknotes.com/lit/gatsby/quotes.html'
